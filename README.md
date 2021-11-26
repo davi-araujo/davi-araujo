@@ -10,3 +10,5 @@
 </div>
 
 - Linguagens que sinto confiança: C
+
+- Caso se interesse ou queira recomendar algo, me envie um email que conversamos :)
