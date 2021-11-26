@@ -1,7 +1,7 @@
 ## Olá, me chamo Davi Matias Araújo
 
 - Meu email é: davimatiasaraujo@gmail.com
-- Estudo Ciência da Computação no Instituto Federal de Brasília
+- Estudo Ciência da Computação no Instituto Federal de Brasília | 6º semestre
 - Gosto de programar e estou aberto a novas linguagens, como também sempre querendo aprender mais sobre computação
 
 <div align="center">
