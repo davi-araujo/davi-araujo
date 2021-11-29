@@ -2,7 +2,7 @@
 
 - Meu email é: davimatiasaraujo@gmail.com
 - Meu perfil no Linkedin: https://www.linkedin.com/in/davi-matias-ara%C3%BAjo-728270224/
-- Estudo Ciência da Computação no Instituto Federal de Brasília | 6º semestre
+- Estudo Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de Brasília - IFB | 6º semestre
 - Gosto de programar e estou aberto a novas linguagens, como também sempre querendo aprender mais sobre computação
 
 <div align="center">
