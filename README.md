@@ -10,5 +10,6 @@
 </div>
 
 - Linguagens que sinto confiança: C
+- Linguagens que estou estudando no momento: C, Python
 
 - Caso se interesse ou queira recomendar algo, me envie um email que conversamos :)
