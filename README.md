@@ -10,8 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-araujo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- Linguagens que sinto confiança: C, Python, HTML5 & CSS3
+- Linguagens que sinto confiança: C, Python, HTML5 & CSS3, JavaScript
 - Ferramentas que sinto confiança: Excel
-- Linguagens que estou estudando no momento: C, Python, HTML5 & CSS3, Excel
 
 - Caso se interesse ou queira recomendar algo, me envie um email que conversamos :)
